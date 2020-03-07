@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BookApiVolley</string>
+    <string name="app_name">BookApiRetrofitKotlin</string>
     <string name="id">id :</string>
     <string name="title">title :</string>
     <string name="author">author :</string>
