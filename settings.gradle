@@ -1,2 +1,2 @@
-rootProject.name='BookApiVolley'
+rootProject.name='BookApiRetrofitKotlin'
 include ':app'
